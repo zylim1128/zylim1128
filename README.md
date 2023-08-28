@@ -14,4 +14,4 @@ Currently pursuing my degree in Computer Science at the University of Washington
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zylim1128&layout=compact&langs_count=6)
 
-Happy coding! 🚴‍♂️
+### Happy coding! 🚴‍♂️
