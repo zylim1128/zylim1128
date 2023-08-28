@@ -1,4 +1,4 @@
-###👋 Hello, I'm Zhi Yang Lim, a junior majoring in Computer Science at the University of Washington. Welcome to my GitHub page!
+### 👋 Hello, I'm Zhi Yang Lim, a junior majoring in Computer Science at the University of Washington. Welcome to my GitHub page!
 
 🖥️ As a passionate computer science enthusiast, I thrive on turning lines of code into creative solutions. I believe that every project I work on is not just a piece of software, but a journey to explore new horizons in the realm of technology.
 
