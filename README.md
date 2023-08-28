@@ -14,8 +14,7 @@ Happy coding! 🚴‍♂️
 
 ### Stat
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+[![](https://activity-graph.herokuapp.com/graph?username=zylim1128&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![zylim1128's github stats](https://github-readme-stats.vercel.app/api?username=zylim1128&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zylim1128&layout=compact&langs_count=6)
