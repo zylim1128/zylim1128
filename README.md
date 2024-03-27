@@ -6,6 +6,7 @@ Currently pursuing my degree in Computer Science at the University of Washington
 ### 📬 Contact
 - Email: zylim@uw.edu
 - LinkedIn: https://www.linkedin.com/in/lim-zhiyang/
+- Website: https://zylim1128.github.io
 
 ### On GitHub
 
