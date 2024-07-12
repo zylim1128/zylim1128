@@ -9,6 +9,7 @@ In addition, I run a [YouTube channel](https://www.youtube.com/@LeetcodeDailyGri
 - Email: zylim@uw.edu
 - LinkedIn: https://www.linkedin.com/in/lim-zhiyang/
 - Website: https://zylim1128.github.io
+- Leetcode: https://leetcode.com/u/ZhiYangLim/
 
 <!--
 ### On GitHub
