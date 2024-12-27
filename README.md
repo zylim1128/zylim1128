@@ -1,7 +1,10 @@
 ## 👋 Hello, I'm Zhi Yang Lim. Welcome to my GitHub page!
 
 ### 🎓 About Me
-Currently working as a teaching assistant and previously a research assistant under Prof. Franzi Roesner at the Security and Privacy Lab, I am deeply interested in AI/ML and software development. I'm excited to share with you a collection of projects that reflect both my academic journey and my personal exploration. You can find my past projects in my repositories and pinned repositories, including an ongoing UW CIRCLE web app that will be launched in mid-July, my past hackathon projects, and others.
+Currently working as a teaching assistant for CSE 332: Data Structure & Parallelism, a research assistant in RAIVN Lab under Master student Peter Sushko. <br>
+Previously worked 6 quarters as a teaching assistant for of CSE 312: Probability and Stats for CS majors, and research assistant under Prof. Franzi Roesner at the Security and Privacy Lab.
+
+I am deeply interested in AI/ML and software development. I'm excited to share with you a collection of projects that reflect both my academic journey and my personal exploration. You can find my past projects in my repositories and pinned repositories, including an ongoing UW CIRCLE web app, my past hackathon projects, and others.
 
 In addition, I run a [YouTube channel](https://www.youtube.com/@LeetcodeDailyGrind) where I solve Leetcode questions and provide explanations to help beginners improve their problem-solving skills.
 
