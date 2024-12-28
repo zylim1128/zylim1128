@@ -2,7 +2,7 @@
 
 ### 🎓 About Me
 Currently working as a teaching assistant for CSE 332: Data Structure & Parallelism, a research assistant in RAIVN Lab under Master student Peter Sushko. <br>
-Previously worked 6 quarters as a teaching assistant for of CSE 312: Probability and Stats for CS majors, and research assistant under Prof. Franzi Roesner at the Security and Privacy Lab.
+Previously worked 6 quarters as a teaching assistant for CSE 312: Probability and Stats for CS majors, and research assistant under Prof. Franzi Roesner at the Security and Privacy Lab.
 
 I am deeply interested in AI/ML and software development. I'm excited to share with you a collection of projects that reflect both my academic journey and my personal exploration. You can find my past projects in my repositories and pinned repositories, including an ongoing UW CIRCLE web app, my past hackathon projects, and others.
 
