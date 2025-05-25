@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Zhi Yang Lim. Welcome to my GitHub page!
 
 ### 🎓 About Me
-Currently working as a teaching assistant for CSE 312: Statistics and Probability for Computer Science. . <br>
-A research assistant in Mobile Intelligent Lab under PhD student: Maruchi Kim. <br>
+Currently working as a teaching assistant for CSE 312: Statistics and Probability for Computer Science. <br>
+A research assistant in Mobile Intelligent Lab under PhD student, Maruchi Kim. <br>
 Previously worked as a teaching assistant for CSE 332: Data Structure & Parallelism, research assistant under Master student Peter Sushko at RAIVN Lab, and under Prof. Franzi Roesner at the Security and Privacy Lab.
 
 I am deeply interested in AI/ML and software development. I'm excited to share with you a collection of projects that reflect both my academic journey and my personal exploration. You can find my past projects in my repositories and pinned repositories, including an ongoing UW CIRCLE web app, my past hackathon projects, and others.
