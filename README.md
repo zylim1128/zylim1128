@@ -1,16 +1,23 @@
 ## 👋 Hello, I'm Zhi Yang Lim. Welcome to my GitHub page!
 
 ### 🎓 About Me
-Currently working as a teaching assistant for CSE 312: Statistics and Probability for Computer Science. <br>
-A research assistant in Mobile Intelligence Lab under PhD student, Maruchi Kim. <br>
-Previously worked as a teaching assistant for CSE 332: Data Structure & Parallelism, research assistant under Master student Peter Sushko at RAIVN Lab, and under Prof. Franzi Roesner at the Security and Privacy Lab.
+Software Developer @ AWS <br>
+Graduated from University of Washington MS in Computer Science. <br>
 
-I am deeply interested in AI/ML and software development. I'm excited to share with you a collection of projects that reflect both my academic journey and my personal exploration. You can find my past projects in my repositories and pinned repositories, including an ongoing UW CIRCLE web app, my past hackathon projects, and others.
+Pursue ongoing work in AI/ML and software development. I'm excited to share with you a collection of projects that reflect both my academic journey and my personal exploration. 
 
-In addition, I run a [YouTube channel](https://www.youtube.com/@LeetcodeDailyGrind) where I solve Leetcode questions and provide explanations to help beginners improve their problem-solving skills.
+### Previous work
+- SDE intern @ Amazon Neptune <br>
+- teaching assistant for CSE 312: Statistics and Probability for Computer Science & CSE 332: Data Structure & Parallelism <br>
+- research assistant at Mobile Intelligence Lab, with PhD student, Maruchi Kim. <br>
+- research assistant at RAIVN Lab, with Master student Peter Sushko <br>
+- research assistant at the Security and Privacy Lab, with Prof. Franzi Roesner <br>
+- Leetcode YouTube [channel](https://www.youtube.com/@LeetcodeDailyGrind) where I solve Leetcode questions and provide explanations to help beginners improve their problem-solving skills.
+
+
 
 ### 📬 Contact
-- Email: zylim@uw.edu
+- Email: zylim@uw.edu, sanyang1128@gmail.com
 - LinkedIn: https://www.linkedin.com/in/lim-zhiyang/
 - Website: https://zylim1128.github.io
 - Leetcode: https://leetcode.com/u/ZhiYangLim/
